@@ -1,0 +1,22 @@
+export const  data = [
+    "Gurgaon, HR, IN",
+    "Hyderabad, TG, IN",
+    "Chennai, TN, IN",
+    "Delhi, NDLS, IN",
+    "Indore, MP, IN",
+    "Kochi, KL, IN",
+    "Gangtok, SK, IN",
+    "Gurgaon, HR, IN",
+    "Hyderabad, TG, IN",
+    "Chennai, TN, IN",
+    "Gurgaon, HR, IN",
+    "Hyderabad, TG, IN",
+    "Chennai, TN, IN",
+    "Delhi, NDLS, IN",
+    "Indore, MP, IN",
+    "Kochi, KL, IN",
+    "Gangtok, SK, IN",
+    "Gurgaon, HR, IN",
+    "Hyderabad, TG, IN",
+    "Chennai, TN, IN"
+]
